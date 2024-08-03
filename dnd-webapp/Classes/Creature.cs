@@ -1,6 +1,4 @@
-﻿using System.Drawing;
-
-namespace dndwebapp.Classes
+﻿namespace dndwebapp.Classes
 {
     public class Creature
     {
